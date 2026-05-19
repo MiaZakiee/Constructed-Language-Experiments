@@ -1,6 +1,6 @@
 {
   "llm": "mistral",
-  "category": "few_shot/word_question",
+  "category": "few_shot\\word_question",
   "round": 5,
   "avg_bleu_score": 46.765211192779184,
   "avg_chrF_score": 66.2999490321453,

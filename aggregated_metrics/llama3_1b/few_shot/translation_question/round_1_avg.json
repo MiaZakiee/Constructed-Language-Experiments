@@ -1,6 +1,6 @@
 {
   "llm": "llama3_1b",
-  "category": "few_shot/translation_question",
+  "category": "few_shot\\translation_question",
   "round": 1,
   "avg_bleu_score": 1.1044795567078942,
   "avg_chrF_score": 9.54195698365819,

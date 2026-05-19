@@ -1,6 +1,6 @@
 {
   "llm": "gemini2.5",
-  "category": "few_shot/word_question",
+  "category": "few_shot\\word_question",
   "round": 2,
   "avg_bleu_score": 63.501468264325446,
   "avg_chrF_score": 70.86778352186936,

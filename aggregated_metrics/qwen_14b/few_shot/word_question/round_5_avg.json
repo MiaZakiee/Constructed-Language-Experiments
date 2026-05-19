@@ -1,6 +1,6 @@
 {
   "llm": "qwen_14b",
-  "category": "few_shot/word_question",
+  "category": "few_shot\\word_question",
   "round": 5,
   "avg_bleu_score": 64.85491771707326,
   "avg_chrF_score": 73.37635480745033,

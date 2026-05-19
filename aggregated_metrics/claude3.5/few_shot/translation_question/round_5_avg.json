@@ -1,6 +1,6 @@
 {
   "llm": "claude3.5",
-  "category": "few_shot/translation_question",
+  "category": "few_shot\\translation_question",
   "round": 5,
   "avg_bleu_score": 19.370517056845763,
   "avg_chrF_score": 40.999955548637864,

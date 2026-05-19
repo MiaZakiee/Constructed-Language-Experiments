@@ -1,6 +1,6 @@
 {
   "llm": "llama3_8b",
-  "category": "few_shot/word_question",
+  "category": "few_shot\\word_question",
   "round": 4,
   "avg_bleu_score": 11.597357760615685,
   "avg_chrF_score": 40.09302078410404,

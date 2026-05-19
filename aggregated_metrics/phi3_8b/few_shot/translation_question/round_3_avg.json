@@ -1,6 +1,6 @@
 {
   "llm": "phi3_8b",
-  "category": "few_shot/translation_question",
+  "category": "few_shot\\translation_question",
   "round": 3,
   "avg_bleu_score": 9.700454311541495,
   "avg_chrF_score": 25.641947241501914,

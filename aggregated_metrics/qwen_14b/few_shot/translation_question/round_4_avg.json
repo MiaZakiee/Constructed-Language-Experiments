@@ -1,6 +1,6 @@
 {
   "llm": "qwen_14b",
-  "category": "few_shot/translation_question",
+  "category": "few_shot\\translation_question",
   "round": 4,
   "avg_bleu_score": 35.05459007069385,
   "avg_chrF_score": 64.46993920847103,
